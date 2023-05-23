@@ -13,7 +13,7 @@ To run the Pong Game, follow these steps:
 1. **Python 3.x**: If you don't have Python installed on your system, you can download and install it from the official Python website: [python.org](https://www.python.org/).
 
 2. **Clone the repository**: Open a terminal or command prompt, navigate to the directory where you want to clone the repository, and run the following command: 
-git clone https://github.com/your-username/pong-game.git
+git clone https://github.com/JoseAlbDR/ponggame/
 Replace `your-username` with your GitHub username.
 
 3. **Navigate to the project directory**: After cloning the repository, navigate to the project directory.
