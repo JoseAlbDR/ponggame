@@ -14,7 +14,6 @@ To run the Pong Game, follow these steps:
 
 2. **Clone the repository**: Open a terminal or command prompt, navigate to the directory where you want to clone the repository, and run the following command: 
 git clone https://github.com/JoseAlbDR/ponggame/
-Replace `your-username` with your GitHub username.
 
 3. **Navigate to the project directory**: After cloning the repository, navigate to the project directory.
 
